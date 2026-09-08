@@ -1,42 +1,38 @@
 const products = [
   {
-    id: 1,
     name: "Burger 1",
-    description: "This is product 1",
+    description: "Classic beef burger with fresh lettuce and cheese",
     price: 10.99,
     rating: 4.5,
     stock: 20,
-    image: "images/burger1.png",
+    image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500",
     quantity: 0
   },
   {
-    id: 2,
     name: "Burger 2",
-    description: "This is product 2",
+    description: "Double patty burger with special sauce",
     price: 15.99,
     rating: 4.0,
     stock: 10,
-    image: "images/burger2.png",
+    image: "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=500",
     quantity: 0
   },
   {
-    id: 3,
     name: "Burger 3",
-    description: "This is product 2",
+    description: "Crispy chicken burger with bacon",
     price: 15.99,
     rating: 4.0,
     stock: 10,
-    image: "images/burger3.png",
+    image: "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?w=500",
     quantity: 0
   },
   {
-    id: 4,
     name: "Fries 1",
-    description: "This is product Fries 1",
+    description: "Golden crispy French fries",
     price: 5.99,
     rating: 4.2,
     stock: 20,
-    image: "images/fries1.png",
+    image: "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=500",
     quantity: 0
   }
 ];
